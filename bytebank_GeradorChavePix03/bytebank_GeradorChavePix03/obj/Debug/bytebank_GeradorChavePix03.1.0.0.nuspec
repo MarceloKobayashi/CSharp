@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>bytebank_GeradorChavePix03</id>
+    <version>1.0.0</version>
+    <title>Gerador de Chaves Aleatórias PIX</title>
+    <authors>bytebank_GeradorChavePix03</authors>
+    <description>Esse pacote se destina gerar chaves PIX de forma aleatória, usando os recursos da estrutura Guid.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\bin\Debug\net8.0\bytebank_GeradorChavePix03.dll" target="lib\net8.0\bytebank_GeradorChavePix03.dll" />
+    <file src="C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\bin\Debug\net8.0\bytebank_GeradorChavePix03.xml" target="lib\net8.0\bytebank_GeradorChavePix03.xml" />
+  </files>
+</package>

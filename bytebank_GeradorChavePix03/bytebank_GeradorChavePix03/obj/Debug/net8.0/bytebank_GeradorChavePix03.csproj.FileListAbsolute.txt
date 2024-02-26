@@ -1,0 +1,13 @@
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\bin\Debug\net8.0\bytebank_GeradorChavePix03.deps.json
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\bin\Debug\net8.0\bytebank_GeradorChavePix03.dll
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\bin\Debug\net8.0\bytebank_GeradorChavePix03.pdb
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\bytebank_GeradorChavePix03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\bytebank_GeradorChavePix03.AssemblyInfoInputs.cache
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\bytebank_GeradorChavePix03.AssemblyInfo.cs
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\bytebank_GeradorChavePix03.csproj.CoreCompileInputs.cache
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\bytebank_GeradorChavePix03.dll
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\refint\bytebank_GeradorChavePix03.dll
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\bytebank_GeradorChavePix03.pdb
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\ref\bytebank_GeradorChavePix03.dll
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\bin\Debug\net8.0\bytebank_GeradorChavePix03.xml
+C:\Users\flavi\CSharp\bytebank_GeradorChavePix03\bytebank_GeradorChavePix03\obj\Debug\net8.0\bytebank_GeradorChavePix03.xml
