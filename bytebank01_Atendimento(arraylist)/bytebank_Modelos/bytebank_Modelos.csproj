@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bytebank.Modelos\ADM\Interno\**" />
+    <EmbeddedResource Remove="bytebank.Modelos\ADM\Interno\**" />
+    <None Remove="bytebank.Modelos\ADM\Interno\**" />
+  </ItemGroup>
+
+</Project>
