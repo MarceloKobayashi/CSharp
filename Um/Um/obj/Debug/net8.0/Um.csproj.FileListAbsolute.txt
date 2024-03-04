@@ -1,0 +1,14 @@
+C:\Users\flavi\CSharp\Um\Um\bin\Debug\net8.0\Um.exe
+C:\Users\flavi\CSharp\Um\Um\bin\Debug\net8.0\Um.deps.json
+C:\Users\flavi\CSharp\Um\Um\bin\Debug\net8.0\Um.runtimeconfig.json
+C:\Users\flavi\CSharp\Um\Um\bin\Debug\net8.0\Um.dll
+C:\Users\flavi\CSharp\Um\Um\bin\Debug\net8.0\Um.pdb
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\Um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\Um.AssemblyInfoInputs.cache
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\Um.AssemblyInfo.cs
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\Um.csproj.CoreCompileInputs.cache
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\Um.dll
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\refint\Um.dll
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\Um.pdb
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\Um.genruntimeconfig.cache
+C:\Users\flavi\CSharp\Um\Um\obj\Debug\net8.0\ref\Um.dll
