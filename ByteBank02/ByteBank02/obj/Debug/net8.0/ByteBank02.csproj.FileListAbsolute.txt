@@ -1,0 +1,14 @@
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\bin\Debug\net8.0\ByteBank02.exe
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\bin\Debug\net8.0\ByteBank02.deps.json
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\bin\Debug\net8.0\ByteBank02.runtimeconfig.json
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\bin\Debug\net8.0\ByteBank02.dll
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\bin\Debug\net8.0\ByteBank02.pdb
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\ByteBank02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\ByteBank02.AssemblyInfoInputs.cache
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\ByteBank02.AssemblyInfo.cs
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\ByteBank02.csproj.CoreCompileInputs.cache
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\ByteBank02.dll
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\refint\ByteBank02.dll
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\ByteBank02.pdb
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\ByteBank02.genruntimeconfig.cache
+C:\Users\flavi\CSharp\ByteBank02\ByteBank02\obj\Debug\net8.0\ref\ByteBank02.dll
