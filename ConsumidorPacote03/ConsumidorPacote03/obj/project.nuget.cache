@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCC5X3QBVD6v5B6/tyJ7smlxO/TMKO2siLUFcbimXbFXgOJLAePFRh6OZL+t0YJrGjzboN+Z6t5ArXb2U+HqEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flavi\\CSharp\\ConsumidorPacote03\\ConsumidorPacote03\\ConsumidorPacote03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flavi\\.nuget\\packages\\bytebank_geradorchavepix03\\1.0.0\\bytebank_geradorchavepix03.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

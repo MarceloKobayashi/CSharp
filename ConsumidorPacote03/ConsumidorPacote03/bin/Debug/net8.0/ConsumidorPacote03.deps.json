@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsumidorPacote03/1.0.0": {
+        "dependencies": {
+          "bytebank_GeradorChavePix03": "1.0.0"
+        },
+        "runtime": {
+          "ConsumidorPacote03.dll": {}
+        }
+      },
+      "bytebank_GeradorChavePix03/1.0.0": {
+        "runtime": {
+          "lib/net8.0/bytebank_GeradorChavePix03.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsumidorPacote03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bytebank_GeradorChavePix03/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0UbNiACAHFDQtZiZEHDB5DRMeZj2j2In7DJRxJihLkJlwFZFMA3ZJYvNMX1S6J7gwRqTdKoy4xoyRasCDPh8mQ==",
+      "path": "bytebank_geradorchavepix03/1.0.0",
+      "hashPath": "bytebank_geradorchavepix03.1.0.0.nupkg.sha512"
+    }
+  }
+}

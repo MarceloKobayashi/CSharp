@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "bytebank_GeradorChavePix03/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/bytebank_GeradorChavePix03.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/bytebank_GeradorChavePix03.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bytebank_GeradorChavePix03/1.0.0": {
+      "sha512": "0UbNiACAHFDQtZiZEHDB5DRMeZj2j2In7DJRxJihLkJlwFZFMA3ZJYvNMX1S6J7gwRqTdKoy4xoyRasCDPh8mQ==",
+      "type": "package",
+      "path": "bytebank_geradorchavepix03/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bytebank_geradorchavepix03.1.0.0.nupkg.sha512",
+        "bytebank_geradorchavepix03.nuspec",
+        "lib/net8.0/bytebank_GeradorChavePix03.dll",
+        "lib/net8.0/bytebank_GeradorChavePix03.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "bytebank_GeradorChavePix03 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\flavi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\flavi\\CSharp\\ConsumidorPacote03\\ConsumidorPacote03\\ConsumidorPacote03.csproj",
+      "projectName": "ConsumidorPacote03",
+      "projectPath": "C:\\Users\\flavi\\CSharp\\ConsumidorPacote03\\ConsumidorPacote03\\ConsumidorPacote03.csproj",
+      "packagesPath": "C:\\Users\\flavi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\flavi\\CSharp\\ConsumidorPacote03\\ConsumidorPacote03\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\flavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "bytebank_GeradorChavePix03": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

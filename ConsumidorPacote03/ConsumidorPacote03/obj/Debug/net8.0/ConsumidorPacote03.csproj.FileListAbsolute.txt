@@ -1,0 +1,17 @@
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\bin\Debug\net8.0\ConsumidorPacote03.exe
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\bin\Debug\net8.0\ConsumidorPacote03.deps.json
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\bin\Debug\net8.0\ConsumidorPacote03.runtimeconfig.json
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\bin\Debug\net8.0\ConsumidorPacote03.dll
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\bin\Debug\net8.0\ConsumidorPacote03.pdb
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\bin\Debug\net8.0\bytebank_GeradorChavePix03.dll
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.csproj.AssemblyReference.cache
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.AssemblyInfoInputs.cache
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.AssemblyInfo.cs
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.csproj.CoreCompileInputs.cache
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.csproj.CopyComplete
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.dll
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\refint\ConsumidorPacote03.dll
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.pdb
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ConsumidorPacote03.genruntimeconfig.cache
+C:\Users\flavi\CSharp\ConsumidorPacote03\ConsumidorPacote03\obj\Debug\net8.0\ref\ConsumidorPacote03.dll
